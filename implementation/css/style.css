@@ -1,0 +1,25 @@
+/* ADD YOUR STYLES HERE */
+
+.bar-label {
+  font-size: 12px;
+}
+
+#area-chart-container {
+  padding: 10px;
+}
+
+#bar-chart-container {
+  padding: 10px;
+}
+
+.header-wrapper {
+  padding: 10px;
+  background-color: rgb(8, 55, 93);
+  color: white;
+  text-align: center;
+  margin-top: 5px;
+}
+
+h3 {
+  font-size: 24px;
+}
